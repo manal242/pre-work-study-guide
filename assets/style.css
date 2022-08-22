@@ -1,18 +1,10 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-cd prework-study-guide
-cd assets
-   touch style.css
-   git status
-   git checkout main
-   git checkout -b feature/add-css
+
    * {
     margin: 0;
     padding: 0;
 }
-=======
-=======
->>>>>>> d515af5242b3d15ed42f4886155355a698871bcd
+
+
 .card {
     width: 80%;
     margin: 40px auto;
@@ -24,15 +16,9 @@ cd assets
     color: red;
  }
  
- * {
-    margin: 0;
-    padding: 0;
-}
+ 
 
-<<<<<<< HEAD
->>>>>>> d515af5242b3d15ed42f4886155355a698871bcd
-=======
->>>>>>> d515af5242b3d15ed42f4886155355a698871bcd
+
 header,
 footer {
     width: 100%;
@@ -40,67 +26,39 @@ footer {
     background-color: blue;
     color: white;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
->>>>>>> d515af5242b3d15ed42f4886155355a698871bcd
-=======
 
->>>>>>> d515af5242b3d15ed42f4886155355a698871bcd
+
 h1,
 h2 {
     text-align: center;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
->>>>>>> d515af5242b3d15ed42f4886155355a698871bcd
-=======
 
->>>>>>> d515af5242b3d15ed42f4886155355a698871bcd
+
 img {
     display: block;
     height: 50px;
     width: 50px;
     margin-left: auto;
     margin-right: auto;
-<<<<<<< HEAD
-<<<<<<< HEAD
-}ul {
-=======
 }
 
-ul {
->>>>>>> d515af5242b3d15ed42f4886155355a698871bcd
-=======
-}
 
 ul {
->>>>>>> d515af5242b3d15ed42f4886155355a698871bcd
+
     padding-left: 40px;
     font-size: 20px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-.card {
-    width: 80%;
-    margin: 40px auto;
-    border: 5px solid gray;
-    box-shadow: 5px 10px #888888;
-  
-=======
-=======
->>>>>>> d515af5242b3d15ed42f4886155355a698871bcd
+
+
 p {
     text-align: center;
     font-size: 30px;
   }
 
   
-<<<<<<< HEAD
->>>>>>> d515af5242b3d15ed42f4886155355a698871bcd
-=======
->>>>>>> d515af5242b3d15ed42f4886155355a698871bcd
+
+
+
